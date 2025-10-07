@@ -48,5 +48,4 @@ export class LoginPage {
 }
 
 
-testing lang to 
-update ulit test 2
+// may babaguhin ako eto ang latest test ko
