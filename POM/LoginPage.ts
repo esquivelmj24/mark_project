@@ -46,3 +46,10 @@ export class LoginPage {
         await expect(this.productRedirection).toBeVisible();
     }
 }
+
+
+// testing lang to 
+// update ulit test 2
+
+
+// update ni oleg
