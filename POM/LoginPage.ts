@@ -46,12 +46,4 @@ export class LoginPage {
         await expect(this.productRedirection).toBeVisible();
     }
 }
-
-
-// may babaguhin ako eto ang latest test ko
-// testing lang to 
-// update ulit test 2
-
-
-// update ni oleg
-// test test
+// Verify the new created text test one
