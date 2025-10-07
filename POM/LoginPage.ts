@@ -48,8 +48,8 @@ export class LoginPage {
 }
 
 
-testing lang to 
-update ulit test 2
+// testing lang to 
+// update ulit test 2
 
 
-update ni oleg
+// update ni oleg
